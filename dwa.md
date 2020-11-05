@@ -20,5 +20,8 @@ page_sections:
     headline: 'adsfadsf '
     slug: 3asd
     content: adsfas
+menu:
+  main:
+    weight: 2
 
 ---
