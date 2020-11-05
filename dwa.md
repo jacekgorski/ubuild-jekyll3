@@ -20,6 +20,5 @@ page_sections:
     headline: 'adsfadsf '
     slug: 3asd
     content: adsfas
-published: false
 
 ---
