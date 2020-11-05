@@ -13,13 +13,13 @@ page_sections:
     slug: slug1
     content: content 2
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: column 2
+    slug: slug2
+    content: asdfaf
   col_3:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: 'adsfadsf '
+    slug: 3asd
+    content: adsfas
 published: false
 
 ---
